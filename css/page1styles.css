@@ -2,7 +2,7 @@
 font-family: 'Billabong';
 font-style: normal;
 font-weight: normal;
-src: local('fonts/Billabong'), url('Billabong.woff') format('woff');
+src: local('fonts/Billabong'), url('fonts/Billabong.woff') format('woff');
 }
 
 html , body {
