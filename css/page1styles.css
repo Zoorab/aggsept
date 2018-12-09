@@ -63,6 +63,7 @@ label{
 	padding: 30px;
 }
 .signin{
+
 	position: fixed;
 	background-color: rgba(255, 255, 255, 0.8);/*КАКОЙ ЦВЕТ НА ФОН!!!*/
 	border: 1px solid rgba(255, 255, 255, 1);
@@ -78,6 +79,34 @@ label{
 	 font-family: 'Montserrat', sans-serif;
 
 }
+
+.registration
+{
+	display: none;
+	position: fixed;
+	background-color: rgba(255, 255, 255, 0.8);/*КАКОЙ ЦВЕТ НА ФОН!!!*/
+	border: 1px solid rgba(255, 255, 255, 1);
+	border-radius: 5px;
+	border-color: white;
+	padding: 3em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	position: absolute;
+	top: 50%;
+	left: 78%;
+	transform: translateX(-50%) translateY(-50%);
+	 font-family: 'Montserrat', sans-serif;
+}
+
+.show
+{
+	display: block;
+}
+.hide
+{
+	display: none;
+}
+
 h2{
 	margin-top: 0px;
 	 font-family: 'Billabong', sans-serif;
