@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Information</title>
+	<link rel="stylesheet" href="css/page1styles.css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+</head>
+<body class="gradient">
+	 <div class="signin">
+			<h1>Information</h1>
+		 <p> "Aggsept" - веб-приложение для объединения и сортировки сообщений из социальных сетей и электронных почт. </p>
+		 <h2>Aggsept will change your life!</h2>
+		 <h1> Why do you need Aggsept?</h1>
+		 <ul>
+		 	<p>He is cool</p>
+		 	<p>He will turn your world</p>
+		 	<p>He fits easily into your life</p> 
+		 </ul>
+ 	</div>
+
+	 	<div class="bar">
+	 	<header>
+			<nav>
+				<ul>
+					<a href="#"> Come Back </a>
+				</ul>
+			</nav>
+		</header> 
+	</div>
+
+
+	 <main>
+	 	<div class="main_window"> 
+		 
+	 	</div>	
+	 </main>
+
+
+</body>
+</html>	
